@@ -3,6 +3,14 @@
     "description": "Laravel Livewire CRUD Generator - Quickly generate CRUD components for your Laravel Livewire application",
     "type": "library",
     "license": "MIT",
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hawraz93/livewire-crud-generator"
+        }
+    ],
+    
     "authors": [
         {
             "name": "Hawraz Nawzad",
@@ -37,6 +45,7 @@
             ]
         }
     },
+    
     "minimum-stability": "dev",
     "prefer-stable": true
 }
