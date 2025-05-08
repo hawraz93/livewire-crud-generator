@@ -1,5 +1,5 @@
 {
-    "name": "hawraz/livewire-crud-generator",
+    "name": "hawraz93/livewire-crud-generator",
     "description": "Laravel Livewire CRUD Generator - Quickly generate CRUD components for your Laravel Livewire application",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "Hawraz Nawzad",
-            "email": "your.email@example.com"
+            "email": "hawrazn1@gmail.com"
         }
     ],
     "require": {
